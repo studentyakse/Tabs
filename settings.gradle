@@ -1,0 +1,2 @@
+rootProject.name = "tabs Ivanov"
+include ':app'
